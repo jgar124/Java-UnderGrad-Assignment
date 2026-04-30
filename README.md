@@ -1,2 +1,2 @@
-# Programs
-Where my programs will be uploaded
+# Java undrergraduate Programs
+A repo of programs from learning Java as an Undergraduate
